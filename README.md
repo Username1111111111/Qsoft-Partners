@@ -1,5 +1,5 @@
 # Qsoft-Partners <img src="https://img.shields.io/badge/Status-Complete-green" style="vertical-align: middle;">
-> 
+> Promo site with responsive flexbox, animated box shadow
 > [Live demo here](https://username1111111111.github.io/Qsoft-Partners/)
 > Or 👇:
 > <a href="https://username1111111111.github.io/Qsoft-Partners/">![QR](./_resources/qsoft-partners.png)
