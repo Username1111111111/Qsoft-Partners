@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/Username1111111111/Qsoft-Partners/issues"
   },
-  "homepage": "https://github.com/Username1111111111/Qsoft-Partners#readme",
+  "homepage": "https://github.com/Username1111111111/Qsoft-Partners",
   "devDependencies": {
     "browser-sync": "^2.27.7",
     "del": "^6.0.0",
