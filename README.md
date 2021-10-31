@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # Qsoft-Partners <img src="https://img.shields.io/badge/Status-Complete-green" style="vertical-align: middle;">
 > Promo site with responsive flexbox, animated box shadow
 > <p><a href="https://username1111111111.github.io/Qsoft-Partners/">Live demo here</a></p>
